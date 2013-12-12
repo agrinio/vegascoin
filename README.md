@@ -1,0 +1,4 @@
+vegascoin
+=========
+
+Cryptocurrency coin
